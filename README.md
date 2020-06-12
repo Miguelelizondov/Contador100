@@ -6,4 +6,4 @@ El [codigo](https://github.com/Miguelelizondov/Contador100/blob/master/Contador.
 
 ## Simulación
 Se realizó una simulación
-![Simulacion](/Contador.png)
+![Simulacion](/Contador.PNG)
